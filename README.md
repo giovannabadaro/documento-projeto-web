@@ -18,7 +18,7 @@ Danilo <br>
 Guilherme <br>
 
 
-<h6>Diagrama de Sequencia de Sistema:</h6>
+<h6>Diagrama de Sequencia de Sistema: **CONCLUÍDO**</h6>
 
 Gabriel <br>
  
