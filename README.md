@@ -4,7 +4,7 @@
 
 <h3>Parte 1: </h3>
 
-<h6>Casos de uso: ***COMPLETO*** </h6>
+<h6>Casos de uso: **FALTA DIAGRAMAS** </h6>
 
 <p>Carlos <br>
 Luiz <br>
