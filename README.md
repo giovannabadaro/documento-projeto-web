@@ -27,6 +27,6 @@ Indianara <br>
 
 <h6>Necessidades de Usuários:</h6>
 
-Daniela <br>
+Daniela - Sites existentes / experiencias de amigos e familiares <br>
 
-Giovani <br>
+Giovani - obserar pessoas usando agentes e próprias experiencias<br>
