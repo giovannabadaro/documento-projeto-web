@@ -4,7 +4,7 @@
 
 <h3>Parte 1: </h3>
 
-<h6>Casos de uso: **FALTA DIAGRAMAS** </h6>
+<h6>Casos de uso: **FALTA CORRIGIR OS ERROS (ISSUES)** </h6>
 
 <p>Carlos <br>
 Luiz <br>
@@ -27,6 +27,6 @@ Indianara <br>
 
 <h6>Necessidades de Usuários:</h6>
 
-Daniela <br>
+Daniela - Sites existentes / experiencias de amigos e familiares **CONCLUÍDO**<br>
 
-Giovani <br>
+Giovani - obserar pessoas usando agentes e próprias experiencias<br>
