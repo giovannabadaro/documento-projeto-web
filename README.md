@@ -4,7 +4,7 @@
 
 <h3>Parte 1: </h3>
 
-<h6>Casos de uso: **FALTA CORRIGIR OS ERROS (ISSUES)** </h6>
+<h6>Casos de uso: **Correções feitas. Algumas sugestões explicadas de forma nebulosa, ou confrontadas (ver ISSUES)** </h6>
 
 <p>Carlos <br>
 Luiz <br>
