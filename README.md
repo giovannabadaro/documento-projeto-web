@@ -40,7 +40,7 @@ Escrever um caso de uso essencial por caso de uso tradicional/cenário <br>
 Realizar uma análise de tarefa por caso de uso. - Gabriel / Luiz **CONCLUÍDO** <br>
 
 <h6>REQUISITOS</h6>
-Identificar diferentes tipos de requisitos e escrever os requisitos no estilo do template Volere. - GIOVANNA <br>
+Identificar diferentes tipos de requisitos e escrever os requisitos no estilo do template Volere. - Giovanna - **CONCLUÍDO** <br>
 
 <h6>PROJETO CONCEITUAL</h6>
 Gerar cenários positivo e negativo a partir de cada cenário. - Carlos <br>
