@@ -33,7 +33,7 @@ Giovani - obserar pessoas usando agentes e próprias experiencias **CONCLUÍDO**
 
 <h6>DESCRIÇÃO DE TAREFAS</h6>
 Escrever um cenário por caso de uso tradicional - DANIELA <br>
-Completar casos de uso tradicionais com um curso alternativo <br>
+Completar casos de uso tradicionais com um curso alternativo - GIOVANI & INDIANARA **CONCUIDO?** <br>
 Escrever um caso de uso essencial por caso de uso tradicional/cenário <br>
 
 <h6>ANALISE DE TAREFAS</h6>
